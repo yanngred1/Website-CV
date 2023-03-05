@@ -83,6 +83,7 @@ p {
 	margin-top: 0;
 	margin-bottom: 1rem;
 	color: #ffffff;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 abbr[title],
@@ -10234,3 +10235,9 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.align-content-sm-1stretch {
+}
+.mi {
+}
+.align-content-around-2 {
+}
